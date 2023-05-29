@@ -21,9 +21,8 @@ git clone https://github.com/mayankdhnkr/newsapp.git
 ```
 
 2. Install packages
-npm install
 ```bash
-
+npm install
 ```
 
 3. Start the development server:
