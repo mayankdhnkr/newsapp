@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Lauren Garafano",
+            "title": "19 Actors Got Tattoos To Honor Roles",
+            "description": "At the end of filming Suicide Squad, Margot Robbie, Cara Delevingne, and Will Smith took turns tattooing the movie's cast and crew.",
+            "url": "https://www.buzzfeed.com/laurengarafano/actors-who-got-tattoos-for-their-roles",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-05/22/21/enhanced/214a1e6ae4ce/original-493-1684792575-10.jpg?crop=1200:628;0,0%26downsize=1250:*",
+            "publishedAt": "2023-05-24T19:37:20.5617545Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reddit-r-all",
+                "name": "Reddit /r/all"
+            },
+            "author": null,
+            "title": "IMHO, the most underrated scene in Scary Movie ",
+            "description": null,
+            "url": "https://www.reddit.com/r/funny/comments/13qfv7a/imho_the_most_underrated_scene_in_scary_movie/",
+            "urlToImage": null,
+            "publishedAt": "2023-05-24T13:37:15.8352465Z",
+            "content": "Welcome to r/Funny, Reddit's largest humour depository."
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Oli Welsh",
+            "title": "The Flash trailer reminds us that Michael Keaton’s Batman is in it",
+            "description": "The latest trailer for the DC movie, which opens on June 16, features Ezra Miller, Michael Keaton, Ben Affleck, Sasha Calle, Michael Shannon, and Jeremy Irons’ return as Alfred",
+            "url": "https://www.polygon.com/23735571/the-flash-trailer-batman-gets-nuts-again",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/SQpwMldFehvCJN3qaboEMUYt5X0=/39x59:2560x1379/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24678039/the_flash_batman_michael_keaton.png",
+            "publishedAt": "2023-05-24T10:22:53Z",
+            "content": "The last big push for the DC movie has few surprises, a lighter tone, and Jeremy Irons"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "EW Staff",
+            "title": "Your guide to the 2023 TV premiere dates",
+            "description": "We'll tell you how to watch all the new and returning series, plus streaming movies.",
+            "url": "https://ew.com/tv/2023-tv-premiere-dates/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C0%2C2000%2C1000&poi=%5B1080%2C625%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F03%2F23%2FArtboard-4TV-PREMIERES-2000.jpg",
+            "publishedAt": "2022-11-03T20:30:00Z",
+            "content": "2023 may be well underway, but the bulk is yet to come.\r\nThe networks and streamers are unleashing a torrent of new and returning series in the coming months, and it's time to get your affairs — or a… [+21124 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Collier Jennings",
+            "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+            "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+            "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+            "publishedAt": "2022-09-01T18:03:14Z",
+            "content": "There is nothing like a good action movie on Netflix. The perfectly choreographed fight scenes that let you feel every punch and kick on screen; the shootouts that see bullets and bodies hitting the … [+11394 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Eliana Dockterman",
+            "title": "Florence Pugh Might Just Save the Movie Star From Extinction",
+            "description": "Pugh is in the midst of what might be the biggest year of her career, starring in two highly-anticipated movies: Oppenheimer and Dune: Part Two.",
+            "url": "http://time.com/collection/next-generation-leaders/6278537/florence-pugh-leaders/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2023/05/time-next-generation-leaders-florence-pugh-social.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2020-10-08T19:48:51Z",
+            "content": "When Florence Pugh was a child, she hated to cry in public. If she had an argument with her parents, she would run to the bathroom, lock the door, and sit under the sink. Only then would she weep. “W… [+10085 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch-cn",
+                "name": "TechCrunch (CN)"
+            },
+            "author": "Brian Heater",
+            "title": "盘点 2019 年消失的明星创业公司 | TechCrunch 中文版",
+            "description": "创业公司会因为各种原因而失败，但有一点不会改变：创业是极其困难的事。想要创办一家成功的公司，需要的不仅仅是热情，以及找到合适的人才（尽管很明显这两点很重要）。成功的创业者需要在许许多多细节上做到完美。\r\n\r\n粗略地回顾下今年的创业公司，可以发现并没有什么公司能带来像去年Theranos那样的轰动性故事。Theranos的故事被写成了畅销书，改编成了纪录片，相关电影也即将上映。不过某些公司，例如MoviePass，可能已经逐渐接近。\r\n\r\n通常来说，每看到一家Theranos，我们同时也会看到数十位辛勤创业者的故事…",
+            "url": "https://techcrunch.cn/2019/12/27/startups-lost-in-2019/",
+            "urlToImage": "https://files.techcrunch.cn/2019/12/gettyimages-829632570.jpg?w=1200",
+            "publishedAt": "2019-12-27T16:46:58Z",
+            "content": "Theranos Theranos MoviePass\r\n Theranos\r\n 2019 \r\nAnki2010 2019 \r\n1.82 \r\n2013 WWDC Overdrive iPhone \r\n3 Anki CozmoAnki 2018 Vector 2019 4 Anki 150 “”Cozmo \r\nChariot2014 2019 \r\n300 2017 \r\nChariot “” \r\n … [+1085 chars]"
+        }
+    ]
+}
